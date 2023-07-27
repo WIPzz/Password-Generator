@@ -151,7 +151,7 @@ namespace Password_Generator
 
             if (textBox1.UseSystemPasswordChar) 
             {
-                button3.Text = "Unhide";
+                button3.Text = "Show";
             }
             else
             {

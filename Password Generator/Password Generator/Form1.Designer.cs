@@ -185,7 +185,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(72, 23);
             this.button3.TabIndex = 14;
-            this.button3.Text = "Unhide";
+            this.button3.Text = "Show";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.hideBttn);
             // 
