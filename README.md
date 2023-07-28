@@ -1,5 +1,5 @@
 # Password-Generator
-Desktop app to generate a password. You can set the lenght and characters the password should include.
+Generates a password. You can set the lenght and characters the password should include.
 
 Ignore the GUI. Only the code in 'Form1.cs' matter.
 
